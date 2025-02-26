@@ -1,0 +1,14 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 3
+
+Buzz Aldrin - Nível de saúde: 85 - Atendimento urgente: não - Posição: (3,2)
+John Glenn - Nível de saúde: 95 - Atendimento urgente: não - Posição: (7,0)
+Peggy Whitson - Nível de saúde: 75 - Atendimento urgente: sim - Posição: (5,7)
+
+
+Número de astronautas não resgatados: 0
+
+
+Total de passos: 34

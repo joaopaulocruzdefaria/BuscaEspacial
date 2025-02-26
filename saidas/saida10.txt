@@ -1,0 +1,14 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 2
+
+Mae Jemison - Nível de saúde: 75 - Atendimento urgente: sim - Posição: (6,0)
+Tim Peake - Nível de saúde: 90 - Atendimento urgente: não - Posição: (9,0)
+
+
+Número de astronautas não resgatados: 1
+
+Ed White - Nível de saúde: 85 - Atendimento urgente: não - Posição: (2,9)
+
+Total de passos: 18

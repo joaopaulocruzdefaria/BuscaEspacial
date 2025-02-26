@@ -1,0 +1,17 @@
+8 8
+S.......
+.###A###
+.#F...#.
+.#F...#.
+.#F...#.
+A#F...#.
+.###A###
+........
+Astronautas:
+Yuri Gagarin,95,0
+Alan Shepard,80,1
+Buzz Aldrin,70,0
+Posicoes dos astronautas na matriz:
+Yuri Gagarin: (5,0)
+Alan Shepard: (1,4)
+Buzz Aldrin: (6,4)

@@ -1,0 +1,15 @@
+6 6
+S.#..A
+.#....
+.#FFF.
+..F...
+A....A
+......
+Astronautas:
+Samantha Cristoforetti,80,0
+Mae Jemison,60,1
+Valentina Tereshkova,85,0
+Posicoes dos astronautas na matriz:
+Samantha Cristoforetti: (0,5)
+Mae Jemison: (4,0)
+Valentina Tereshkova: (4,5)

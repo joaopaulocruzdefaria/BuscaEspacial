@@ -1,0 +1,13 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 0
+
+
+
+Número de astronautas não resgatados: 2
+
+Sergey Krikalev - Nível de saúde: 95 - Atendimento urgente: não - Posição: (3,5)
+Alan Shepard - Nível de saúde: 80 - Atendimento urgente: sim - Posição: (5,0)
+
+Total de passos: 0

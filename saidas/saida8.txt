@@ -1,0 +1,14 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 2
+
+Mae Jemison - Nível de saúde: 60 - Atendimento urgente: sim - Posição: (4,0)
+Valentina Tereshkova - Nível de saúde: 85 - Atendimento urgente: não - Posição: (4,5)
+
+
+Número de astronautas não resgatados: 1
+
+Samantha Cristoforetti - Nível de saúde: 80 - Atendimento urgente: não - Posição: (0,5)
+
+Total de passos: 22

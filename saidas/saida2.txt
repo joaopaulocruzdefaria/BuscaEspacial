@@ -1,0 +1,14 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 3
+
+Mae Jemison - Nível de saúde: 85 - Atendimento urgente: não - Posição: (7,0)
+Chris Hadfield - Nível de saúde: 75 - Atendimento urgente: não - Posição: (11,0)
+Ed White - Nível de saúde: 65 - Atendimento urgente: sim - Posição: (3,11)
+
+
+Número de astronautas não resgatados: 0
+
+
+Total de passos: 44

@@ -1,0 +1,14 @@
+7 7
+S......
+.FFFF..
+.F.....
+.F...A.
+.F.....
+AFFFFF.
+.......
+Astronautas:
+Sergey Krikalev,95,0
+Alan Shepard,80,1
+Posicoes dos astronautas na matriz:
+Sergey Krikalev: (3,5)
+Alan Shepard: (5,0)

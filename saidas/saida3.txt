@@ -1,0 +1,14 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 3
+
+Yuri Gagarin - Nível de saúde: 95 - Atendimento urgente: não - Posição: (5,0)
+Buzz Aldrin - Nível de saúde: 70 - Atendimento urgente: não - Posição: (6,4)
+Alan Shepard - Nível de saúde: 80 - Atendimento urgente: sim - Posição: (1,4)
+
+
+Número de astronautas não resgatados: 0
+
+
+Total de passos: 22

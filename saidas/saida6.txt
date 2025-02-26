@@ -1,0 +1,14 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 3
+
+Yuri Gagarin - Nível de saúde: 70 - Atendimento urgente: sim - Posição: (6,0)
+Chris Hadfield - Nível de saúde: 95 - Atendimento urgente: não - Posição: (9,0)
+Neil Armstrong - Nível de saúde: 85 - Atendimento urgente: não - Posição: (2,9)
+
+
+Número de astronautas não resgatados: 0
+
+
+Total de passos: 50

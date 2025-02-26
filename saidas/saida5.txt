@@ -1,0 +1,13 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 2
+
+Tim Peake - Nível de saúde: 85 - Atendimento urgente: não - Posição: (9,0)
+Eileen Collins - Nível de saúde: 75 - Atendimento urgente: sim - Posição: (18,19)
+
+
+Número de astronautas não resgatados: 0
+
+
+Total de passos: 74
