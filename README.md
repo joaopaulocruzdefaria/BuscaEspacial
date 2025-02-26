@@ -1,5 +1,5 @@
 
-## Sistema de Gerenciamento de Sobreviventes e Recursos
+## Robo de Resgate Espacial
 Centro Federal de Educação Tecnológica de Minas Gerais - CEFET-MG
 Aluno: João Paulo Cruz de Faria
 
