@@ -1,10 +1,7 @@
----
 
-# Sistema de Resgate Espacial com Busca Otimizada
-
-## Centro Federal de Educação Tecnológica de Minas Gerais - CEFET-MG
-
-*Aluno:* João Paulo Cruz de Faria
+## Sistema de Gerenciamento de Sobreviventes e Recursos
+Centro Federal de Educação Tecnológica de Minas Gerais - CEFET-MG
+Aluno: João Paulo Cruz de Faria
 
 ---
 
