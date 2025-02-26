@@ -40,3 +40,15 @@ Nesse trabalho eu desenvolvi um projeto de resgate de sobreviventes ('S') dentro
 1. Alteração do bfs, para implementar o problema do caixeiro viajante.
 2. Implementar interface gráfica para melhorar a experiência do usuário.
 3. Escrever também no arquivo final, o caminho percorrido pelo robô, ao invés de somente exibir isso no terminal.
+
+### ▶ 4. Como Executar
+
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/joaopaulocruzdefaria/BuscaEspacial
+   ```
+
+2. Compile e rode o código:
+   ```sh
+   make run
+   ```
